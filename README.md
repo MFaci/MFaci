@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MFaci
 - 👀 I’m interested in Q# and QDK
-- 🌱 I’m currently learning Phyton
-- 💞️ I’m looking to collaborate on VBA codes and Phyton codes
+- 🌱 I’m currently learning Phyton, JavaScript and NodeJS
+- 💞️ I’m looking to collaborate on VBA codes, Phyton codes and NodeJS codes
 - 📫 How to reach me, just send me a dm on instagram: @m.facy
 
 <!---
